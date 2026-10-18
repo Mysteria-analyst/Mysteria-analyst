@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Mysteria 👋
 
-<!--
-**Mysteria-analyst/Mysteria-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a statistics student at LASUSTECH, Nigeria, and an aspiring data analyst.
 
-Here are some ideas to get you started:
+## What I'm doing
+- Studying statistics at university
+- Learning data analysis through a hands-on course at Chrisgate Computer College
+- Building projects to practice cleaning, analyzing, and presenting data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Statistics
+- Data analysis
+- Power BI
+- Data Entry 
+- Excel
+- SQL
+- Python
+
+## Projects
+Coming soon: my data analysis projects will appear here.
+
+## Contact
+- Email: ubahaliciablessing@gmail.com
