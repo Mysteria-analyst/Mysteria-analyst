@@ -1,4 +1,4 @@
-# Hi, I'm Mysteria 👋
+# Hi, I'm Onwukaike Oluebube Blessing 👋
 
 I'm a statistics student at LASUSTECH, Nigeria, and an aspiring data analyst.
 
